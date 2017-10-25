@@ -4,7 +4,7 @@ Coupled Bayesian Sets Algorithm for Semi-supervised Learning and Information Ext
 Related To Read The Web (NELL) Project: http://rtw.ml.cmu.edu/rtw/
 
 bibtext
-@inproceedings{verma2012coupled, <br />
+@inproceedings{verma2012coupled, <br/>
   title={Coupled bayesian sets algorithm for semi-supervised learning and information extraction}, <br />
   author={Verma, Saurabh and Hruschka, Estevam R}, <br />
   booktitle={Joint European Conference on Machine Learning and Knowledge Discovery in Databases}, <br />
